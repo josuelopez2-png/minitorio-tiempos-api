@@ -1,2 +1,4 @@
-# minitorio-tiempos-api
-algoritmo de monitoreo y analisis
+ Descripción del caso
+ Pseudocódigo  
+ Diagrama de flujo  
+ Tabla de trazado
